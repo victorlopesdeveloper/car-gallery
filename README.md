@@ -4,6 +4,8 @@ Projeto de uma página de seleção de carros desenvolvida com **HTML, CSS e Jav
 
 A proposta é apresentar diferentes modelos de carros através de uma interface visual, com navegação entre os veículos e informações básicas de cada modelo.
 
+Projeto Online: https://victorlopesdeveloper.github.io/car-gallery/
+
 ## ✨ Funcionalidades
 
 * Navegação entre diferentes carros
@@ -19,9 +21,6 @@ A proposta é apresentar diferentes modelos de carros através de uma interface 
 * **CSS3** — estilização, layout, responsividade e animações
 * **JavaScript** — navegação e interação entre os carros
 
-## 📸 Preview
-
-![FP Selection](./assets/preview.png)
 
 ## 🎯 Objetivo
 
